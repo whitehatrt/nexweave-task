@@ -1,0 +1,30 @@
+[
+  {
+    "CampaignName": "Website Promotion - Landing",
+    "Status": "success",
+    "CreatedAt": "17 jun 2021",
+    "Method": "CSV",
+    "Media": "Video"
+  },
+  {
+    "CampaignName": "App Download",
+    "Status": "failed",
+    "CreatedAt": "15 jun 2021",
+    "Method": "URL Overide",
+    "Media": "Video"
+  },
+  {
+    "CampaignName": "Social Media Promotion",
+    "Status": "success",
+    "CreatedAt": "14 jun 2021",
+    "Method": "CSV",
+    "Media": "Video"
+  },
+  {
+    "CampaignName": "Linked Templates",
+    "Status": "failed",
+    "CreatedAt": "13 jun 2021",
+    "Method": "URL Overide",
+    "Media": "Video"
+  }
+]
